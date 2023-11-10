@@ -7,6 +7,7 @@ This project contains guidelines on how to design beautiful websites.
 1. [Typography](#typography)
 2. [Color](#color)
 3. [Images](#images)
+4. [Icons](#icons)
 
 ## Guidelines
 
@@ -143,3 +144,20 @@ Please change it according to your needs.
 ```
 
 [Example](http://jsfiddle.net/gRzPF/409/)
+
+### Icons
+
+1. Use icons to list features/steps.
+
+2. Use icons for actions/links.
+
+    NOTE: Here are some rules to follow when applying this concept.
+
+    - Icons should be recognizable.
+    - Label your icons.
+
+3. Icons should not take center stage.
+
+4. Use icon fonts whenever possible.
+
+    NOTE: icon fonts use smooth vector images instead of raster images to display icons.
