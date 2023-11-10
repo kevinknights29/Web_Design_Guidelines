@@ -4,11 +4,21 @@ This project contains guidelines on how to design beautiful websites.
 
 ## Table of Contents
 
-1. [Typography](#typography)
-2. [Color](#color)
-3. [Images](#images)
-4. [Icons](#icons)
-5. [Whitespace](#whitespace)
+- [Guidelines](#guidelines)
+
+    1. [Typography](#typography)
+
+    2. [Color](#color)
+
+    3. [Images](#images)
+
+    4. [Icons](#icons)
+
+    5. [Whitespace](#whitespace)
+
+- [Summary](#summary)
+
+- [Resources](#resources)
 
 ## Guidelines
 
@@ -170,7 +180,7 @@ Please change it according to your needs.
     - Put whitespace between your elements.
     - Put whitespace between your group of elements.
     - Put whitespace between your website sections.
-    - Don't exagerate with whitespace.
+    - Don't exaggerate with whitespace.
 
 2. Define hierarchy
 
@@ -181,3 +191,25 @@ Please change it according to your needs.
 1. Define where you want users to look first.
 2. Establish a flow that corresponds to your content's message.
 3. Use whitespace to build that flow.
+
+## Summary
+
+- Most of your content will be text, so beautiful typography is a key element to a good-looking website.
+
+- Images are getting more and more important in web design, so choosing great images and putting text on them is an essential part of your work.
+
+- Icons are also a good way of setting a friendly tone for your website but use them carefully.
+
+- The adequate use of whitespace makes a website look professionally designed, so use it a lot, but in the correct way.
+
+- Build a layout by defining the visual hierarchy of your content. Whitespace is also important for this.
+
+- Your website should be designed in a way that ensures that both the user and the owner of the website achieve their goals. This is the user experience.
+
+- You must get inspired by studying well-designed websites by other designers.
+
+## Resources
+
+This is inspired by the Udemy course:
+[`Web Design for Web Developers: Build Beautiful Websites!`](https://dell-learning.udemy.com/course/web-design-secrets/)
+by Jonas Schmedtmann.
