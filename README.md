@@ -14,8 +14,8 @@ This project contains guidelines on how to design beautiful websites.
 1. Use a font size between 15 and 25 pixels (Body).
 
 2. Use (really) big font size for headlines.
-    - For example: 60px.
-    - Note: The more you increase the font size, the more you need to decrease the font weight.
+    - EXAMPLE: 60px.
+    - NOTE: The more you increase the font size, the more you need to decrease the font weight.
 
 3. Use line spacing between 120 and 150% of font size.
 
@@ -32,8 +32,7 @@ This project contains guidelines on how to design beautiful websites.
         - Storytelling
         - Long reading
 
-    - Examples:
-
+    - EXAMPLE:
         - Sans-serif
             - Open Sans
             - Lato
@@ -61,5 +60,25 @@ This project contains guidelines on how to design beautiful websites.
     - A list of base colors can be found [here](https://flatuicolors.com/palette/defo).
 
 2. Select a darker a lighter version of that color for your palette.
+    - A tool to achieve this can be found [here](https://0to255.com/)
 
-3. 
+3. Use color to draw attention.
+    - NOTE: You can use a color wheel tool to mix colors.
+        An example of such a tool can be found [here](https://www.canva.com/colors/color-wheel/).
+
+4. Never use black in your design.
+
+5. Choose colors wisely
+
+    Color makes a difference. This happens because there are psychological effects behind each color.
+
+    - `Red`: power, passion, strength, and excitement.
+    - `Orange`: cheerfulness, creativity, friendliness, confidence, and courage.
+    - `Yellow`: happiness, liveliness, curiosity, intelligence, brightness.
+    - `Green`: harmony, nature, life, money, and health.
+    - `Blue`: patience, peace, trustworthiness, stability, professionalism, trust, and honor.
+    - `Purple`: wisdom royalty, nobility, luxury, and mystery.
+    - `Pink`: romance, passivity, care, peace, and affection.
+    - `Brown`: relaxation, confidence, earthiness, nature, durability, comfort, and reliability.
+
+    NOTE: Brighter tones are more energetic, while darker tones are more powerful and elegant.
