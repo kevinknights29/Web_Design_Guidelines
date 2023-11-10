@@ -8,6 +8,7 @@ This project contains guidelines on how to design beautiful websites.
 2. [Color](#color)
 3. [Images](#images)
 4. [Icons](#icons)
+5. [Whitespace](#whitespace)
 
 ## Guidelines
 
@@ -161,3 +162,22 @@ Please change it according to your needs.
 4. Use icon fonts whenever possible.
 
     NOTE: icon fonts use smooth vector images instead of raster images to display icons.
+
+### Whitespace
+
+1. Use whitespace
+
+    - Put whitespace between your elements.
+    - Put whitespace between your group of elements.
+    - Put whitespace between your website sections.
+    - Don't exagerate with whitespace.
+
+2. Define hierarchy
+
+    Whitespaces describe invisible relationships between the elements of your website.
+
+#### How to apply whitespace effectively?
+
+1. Define where you want users to look first.
+2. Establish a flow that corresponds to your content's message.
+3. Use whitespace to build that flow.
