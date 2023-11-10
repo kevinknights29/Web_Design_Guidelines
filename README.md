@@ -38,4 +38,12 @@ This projects contains guidelines on how to design beautiful websites.
             - Merriweather
             - PT Serif
 
-6. adsd
+### How to choose a Font?
+
+1. Chose a font which reflects the look and feel you want for your website.
+
+2. Decide: sans-serif or serify typeface?
+
+3. Use a good font.
+
+4. Use only that one typeface.
