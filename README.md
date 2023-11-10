@@ -6,6 +6,7 @@ This project contains guidelines on how to design beautiful websites.
 
 1. [Typography](#typography)
 2. [Color](#color)
+3. [Images](#images)
 
 ## Guidelines
 
@@ -82,3 +83,63 @@ This project contains guidelines on how to design beautiful websites.
     - `Brown`: relaxation, confidence, earthiness, nature, durability, comfort, and reliability.
 
     NOTE: Brighter tones are more energetic, while darker tones are more powerful and elegant.
+
+### Images
+
+#### Techniques when working with images
+
+1. Put text directly on the image.
+
+    NOTE: This only works if the image is quite dark and your text is white.
+
+2. Overlay the image with a color.
+
+    NOTE: The simplest way to do this, is by using the color `black`.
+
+3. Put text in a box.
+
+    NOTE: The box should be opaque.
+
+4. Blur the image.
+
+5. Floor fade.
+
+    NOTE: This works when you are planning to put the text at the bottom of the image.
+
+#### Applying techniques with CSS
+
+Here is a list of example CSS code for some of the effects.
+Please change it according to your needs.
+
+- **Overlay the image**
+
+```css
+    .darken {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(YOUR IMAGE HERE);
+    }
+```
+
+[Example](http://jsfiddle.net/drpak8vy/1/)
+
+- **Put text in a box**
+
+```css
+    .text-box {
+        background-color: rgba(0, 0, 0, 0.5);
+        color: #fff;
+        display: inline;
+        padding: 10px;
+    }
+```
+
+[Example](http://jsfiddle.net/qg83m36p/)
+
+- **Floor fade**
+
+```css
+    .floor-fade {
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6) ), url(YOUR IMAGE HERE);
+    }
+```
+
+[Example](http://jsfiddle.net/gRzPF/409/)
