@@ -2,7 +2,14 @@
 
 This projects contains guidelines on how to design beautiful websites.
 
+## Table of Contents
+
+1. [Typography](#typography)
+2. [Color](#color)
+
 ## Guidelines
+
+### Typography
 
 1. Use a font-size between 15 and 25 pixels (Body).
 
@@ -38,7 +45,7 @@ This projects contains guidelines on how to design beautiful websites.
             - Merriweather
             - PT Serif
 
-### How to choose a Font?
+#### How to choose a Font?
 
 1. Chose a font which reflects the look and feel you want for your website.
 
@@ -47,3 +54,7 @@ This projects contains guidelines on how to design beautiful websites.
 3. Use a good font.
 
 4. Use only that one typeface.
+
+### Color
+
+WIP
